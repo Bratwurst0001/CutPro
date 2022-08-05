@@ -1,0 +1,33 @@
+C:\Users\Micro\source\repos\Dj App\Dj App\obj\Debug\net48\Dj App.csproj.AssemblyReference.cache
+C:\Users\Micro\source\repos\Dj App\Dj App\obj\Debug\net48\Dj App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Micro\source\repos\Dj App\Dj App\obj\Debug\net48\Dj_App.Form1.resources
+C:\Users\Micro\source\repos\Dj App\Dj App\obj\Debug\net48\Dj App.csproj.GenerateResource.cache
+C:\Users\Micro\source\repos\Dj App\Dj App\obj\Debug\net48\Dj App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\Dj App\Dj App\obj\Debug\net48\Dj App.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\Dj App\Dj App\obj\Debug\net48\Dj App.AssemblyInfo.cs
+C:\Users\Micro\source\repos\Dj App\Dj App\obj\Debug\net48\Dj App.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\Dj App.exe.config
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\Dj App.exe
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\Dj App.pdb
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\Guna.UI2.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\obj\Debug\net48\Dj App.csproj.CopyComplete
+C:\Users\Micro\source\repos\Dj App\Dj App\obj\Debug\net48\Dj App.exe
+C:\Users\Micro\source\repos\Dj App\Dj App\obj\Debug\net48\Dj App.pdb
+C:\Users\Micro\source\repos\Dj App\Dj App\obj\Debug\net48\Dj_App.Properties.Resources.resources
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\NiL.JS.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\libvideo.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\MediaToolkit.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\AxInterop.WMPLib.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\Interop.WMPLib.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\Microsoft.Win32.Registry.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\NAudio.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\NAudio.Asio.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\NAudio.Core.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\NAudio.Midi.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\NAudio.Wasapi.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\NAudio.WinForms.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\NAudio.WinMM.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\System.Security.AccessControl.dll
+C:\Users\Micro\source\repos\Dj App\Dj App\bin\Debug\net48\System.Security.Principal.Windows.dll
